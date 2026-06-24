@@ -1,0 +1,10 @@
+{
+  "name": "Wagram",
+  "short_name": "Wagram",
+  "description": "Pink & Blue chat app like Telegram", 
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF4FA7",
+  "orientation": "portrait"
+}
